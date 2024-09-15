@@ -1,3 +1,22 @@
+# Weather App
+
+## Description
+
+The Weather App is a React-based application that allows users to view current weather conditions based on a city name or their geographical location. It utilizes the [WeatherAPI](https://www.weatherapi.com/) to fetch weather data and provides information such as temperature, conditions, wind speed, humidity, and UV index.
+
+## Features
+
+- **City-Based Weather Lookup**: Users can enter a city name to fetch and display current weather information.
+- **Geolocation**: Users can retrieve weather data based on their current geographical location using the browser's geolocation API.
+- **Weather Details**: Displays temperature, weather conditions, wind speed, humidity, and UV index.
+
+## Installation
+
+1. **Clone the Repository**:
+
+   ```bash
+   git clone <repository-url>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
