@@ -15,7 +15,7 @@ The Weather App is a React-based application that allows users to view current w
 1. **Clone the Repository**:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/PretoriusMikael/weather-app.git
 
 # Getting Started with Create React App
 
