@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+input {
+  padding: 10px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px;
+}
+
+div {
+  margin-top: 20px;
+}
+
+.weather-app {
+  border: black solid 1px;
+  margin-left: 700px;
+  margin-right: 700px;
+}
+
+p {
+  font-size: x-large;
+}
